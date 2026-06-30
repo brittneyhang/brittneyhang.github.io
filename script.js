@@ -1,9 +1,7 @@
 
 // ---- Data ----
 const SKILLS = [
-  "Network Security", "Windows Server", "Active Directory", "Linux",
-  "Python", "SQL", "Wireshark", "Splunk", "Risk Assessment",
-  "Documentation", "Incident Response"
+  "SQL", "C++", "HTML", "CSS", "Javascript", "Tableau", "Microsoft Office Suite", "Quickbooks"
 ];
 
 const PROJECTS = [
